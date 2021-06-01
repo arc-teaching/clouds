@@ -1,7 +1,7 @@
 # clouds
 A list of clouds that I like
 
-- cirrus
+- [cirrus](cirrus.md)
 - altocumulus
 - cumulus
 - stratucumulus
